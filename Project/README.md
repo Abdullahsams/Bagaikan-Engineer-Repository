@@ -77,7 +77,7 @@
 <details>
     <summary>Praktikum Pemrograman 1 <b>[1❗️]</b></summary>
 
-> **⏰ Deadline:** [Minggu 15] Kamis, 26/NOV/25, 23:59 Ethol
+> **⏰ Deadline:** [Minggu 15] Rabu, 26/NOV/25, 23:59 Ethol
 >
 > **📋 Informasi PJ:**
 >
@@ -147,9 +147,9 @@
 >
 > 📦 Lampiran:
 >
-> <img width="60%" src="Assets/Img/stat1.jpeg" alt="Statistika Lampiran 1">
+> <img width="60%" src="../Assets/Img/stat1.jpeg" alt="Statistika Lampiran 1">
 >
-> <img width="60%" src="Assets/Img/stat2.png" alt="Statistika Lampiran 2">
+> <img width="60%" src="../Assets/Img/stat2.png" alt="Statistika Lampiran 2">
 >
 > <a href="https://drive.google.com/drive/folders/1-toH2muby_IiPbufob631siXrYZjeI9U?usp=drive_link">[MATERI]</a>
 
