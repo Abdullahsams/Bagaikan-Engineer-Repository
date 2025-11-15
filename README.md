@@ -11,6 +11,7 @@
 <figure>
     <div align="center">
       <img width="60%" height="60%" align="center" src="Assets/Img/iknowimcool.jpeg">
+      <br>
       <figcaption>  
         <em>It's only me and me in this battlefield, I do cheer within everyone's accomplishment</em> 
       </figcaption>
